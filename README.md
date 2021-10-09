@@ -1,2 +1,2 @@
 # learning-github-as-team
-learning github with my iti team 
+ahmed's 1st func
