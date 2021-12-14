@@ -9,14 +9,11 @@ ahmed1();
 
 // ahmed's 2nd fun
 const ahmed2 = () => {
-	console.log("1st func");
-};
+    console.log("2nd func")
+}
 ahmed2();
-//magda 1st function
-function magda1() {
-	console.log("hi, from magda function one");
+// new line
+const ahmed3 = () => {
+    console.log("3rd func")
 }
-//magda 2nd function
-function magda2() {
-	console.log("hi, from magda function two");
-}
+ahmed3();
