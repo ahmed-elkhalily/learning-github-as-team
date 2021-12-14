@@ -9,6 +9,11 @@ ahmed1();
 
 // ahmed's 2nd fun
 const ahmed2 = () => {
-    console.log("1st func")
+    console.log("2nd func")
 }
 ahmed2();
+// new line
+const ahmed3 = () => {
+    console.log("3rd func")
+}
+ahmed3();
